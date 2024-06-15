@@ -1,0 +1,15 @@
+
+.completed {
+    background-color: green !important;
+    color: white;
+}
+
+.expired {
+    background-color: red !important;
+    color: white;
+}
+
+.pending {
+    background-color: white !important;
+    color: black;
+}
